@@ -1,0 +1,51 @@
+
+{
+
+	"HTMLFileName":"smurf.html",
+	"pref__general__AutoKeyframeProperties":"true",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"stage-Default Timeline_mark_ms":"-1",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"pref__general__GenerateSmoothTransitions":"false",
+	"symbol_stage":{
+		"dummyStageParentWidth":"800px",
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"defaultStageParentWidth":"800px",
+		"element_${market_1_9}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767",
+			"animationEnabled":"true",
+			"usingMotionPaths":"false"},
+		"defaultStageParentHeight":"600px",
+		"dummyStageParentHeight":"600px"},
+	"TransitionIdCounter":"21",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.2",
+	"pref__general__TimelineGridSize":"15fps",
+	"pref__general__TimelineShowGrid":"true",
+	"usedBOM":"false",
+	"nextElementColorIndex":"3",
+	"stage-Default Timeline_playhead_ms":"267",
+	"StageZoomFactor":"100",
+	"expanded:images/market_1_9.jpg":"nil",
+	"PreloaderType":"Polite"}
